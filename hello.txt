@@ -1,4 +1,5 @@
 hello Git!is me!ni giao wo li giao
+hello Git!is me!giaogiao
 hello Git!is me!
 hello Git!is me!
 hello Git!is me!
@@ -14,3 +15,5 @@ hello Git!is me!
 hello Git!is me!
 hello Git!is me!
 这是一个master分支
+这是一个hot分支
+合并
