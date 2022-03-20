@@ -17,3 +17,4 @@ hello Git!is me!
 这是一个master分支
 这是一个hot分支
 合并
+已经更改为新版本
