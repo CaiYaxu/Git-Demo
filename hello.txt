@@ -1,3 +1,4 @@
+hello Git!is me!ni giao wo li giao
 hello Git!is me!
 hello Git!is me!
 hello Git!is me!
@@ -12,7 +13,4 @@ hello Git!is me!
 hello Git!is me!
 hello Git!is me!
 hello Git!is me!
-hello Git!is me!
-
-giao giao giao
-giao giao
+这是一个master分支
